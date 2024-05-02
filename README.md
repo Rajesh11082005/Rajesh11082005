@@ -1,3 +1,6 @@
+
+<img align="center" src="https://api.jobifinder.com/uploads/blog/16825378741219.webp" alt="coverimage"/>
+
 <h1 align="center">Hi 👋, I'm Rajesh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -7,8 +10,7 @@
 
 - 🌱 I’m currently learning **React, Servlet, .....**
 
-- 💻 Current Designation **Frontend - 💻 Current Designation **Frontend Dev@ZOHO**
-
+- 💻 Current Designation **Frontend Dev@ZOHO**
 
 - 👨‍💻 All of my projects are available at [https://rajesh11082005.github.io/Portfolio/](https://rajesh11082005.github.io/Portfolio/)
 
