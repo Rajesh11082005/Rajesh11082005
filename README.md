@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, Servlet, .....**
 
-- 💻 Current Designation **Frontend - 💻 Current Designation **Frontend Dev@[ZOHO](#ff4e67)**{style=color:#ff4e67}**[ZOHO](#19d697)**{style=color:#19d697}**[ZOHO](#5da4f3)**{style=color:#5da4f3}**[ZOHO](#ffc600)**{style=color:#ffc600}**[ZOHO](#ff4e67)**
+- 💻 Current Designation **Frontend - 💻 Current Designation **Frontend Dev@<span style="color:#ff4e67">Z</span><span style="color:#19d697">O</span><span style="color:#5da4f3">H</span><span style="color:#ffc600">O</span>**
 
 
 - 👨‍💻 All of my projects are available at [https://rajesh11082005.github.io/Portfolio/](https://rajesh11082005.github.io/Portfolio/)
