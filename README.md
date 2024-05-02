@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/rajesh-p-4b3908241/](https://www.linkedin.com/in/rajesh-p-4b3908241/)
 
-- ⚡ Fun fact **Eat➡️Sleep➡️Code➡️Repeat**
+- ⚡ Fun fact **Eat ➡️ Sleep ➡️ Code ➡️ Repeat**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
