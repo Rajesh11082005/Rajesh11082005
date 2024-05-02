@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **React, Servlet, .....**
 
+- Some Markdown text with <span style="color:blue">some *blue* text</span>.
+
 - 💻 Current Designation **Frontend - 💻 Current Designation **Frontend Dev@<span style="color:#ff4e67">Z</span><span style="color:#19d697">O</span><span style="color:#5da4f3">H</span><span style="color:#ffc600">O</span>**
 
 
