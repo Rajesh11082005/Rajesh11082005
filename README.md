@@ -1,5 +1,5 @@
 
-<img align="center" src="https://api.jobifinder.com/uploads/blog/16825378741219.webp" alt="coverimage" height="200"/>
+<img align="center" src="https://api.jobifinder.com/uploads/blog/16825378741219.webp" alt="coverimage" height="350"/>
 
 <h1 align="center">Hi 👋, I'm Rajesh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
