@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, Servlet, .....**
 
-- 💻 Current Designation **Frontend Dev@<span color="#ff4e67">Z</span><span>O</span><span>H</span><span>O</span>**
+- 💻 Current Designation **Frontend Dev@<span style="color: green">Z</span><span>O</span><span>H</span><span>O</span>**
 
 - 👨‍💻 All of my projects are available at [https://rajesh11082005.github.io/Portfolio/](https://rajesh11082005.github.io/Portfolio/)
 
