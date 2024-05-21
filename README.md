@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **FoxyLearn**
 
-- 🌱 I’m currently learning **ReactJS, NodeJs, .....**
+- 🌱 I’m currently learning **ReactJS, NodeJS, .....**
 
 - 💻 Current Designation **Frontend Dev@ZOHO**
 
